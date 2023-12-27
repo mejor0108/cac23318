@@ -29,7 +29,7 @@ if __name__ == "__main__":
     print("Ejemplo 1 : usando exception")
     get_int()
     print("Ejemplo 2 : con excepcion y recursión")
-    get_int_recursive()
+    print(get_int_recursive() )
             
 
         
